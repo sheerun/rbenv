@@ -1,0 +1,27 @@
+[submodule "plugins/ruby-build"]
+	path = plugins/ruby-build
+	url = https://github.com/sstephenson/ruby-build.git
+[submodule "plugins/rbenv-vars"]
+	path = plugins/rbenv-vars
+	url = https://github.com/sstephenson/rbenv-vars.git
+[submodule "plugins/rbenv-ctags"]
+	path = plugins/rbenv-ctags
+	url = https://github.com/tpope/rbenv-ctags.git
+[submodule "plugins/rbenv-rehash"]
+	path = plugins/rbenv-rehash
+	url = https://github.com/sstephenson/rbenv-gem-rehash.git
+[submodule "plugins/rbenv-default-gems"]
+	path = plugins/rbenv-default-gems
+	url = https://github.com/sstephenson/rbenv-default-gems.git
+[submodule "plugins/rbenv-communal-gems"]
+	path = plugins/rbenv-communal-gems
+	url = https://github.com/tpope/rbenv-communal-gems.git
+[submodule "plugins/rbenv-use"]
+	path = plugins/rbenv-use
+	url = https://github.com/rkh/rbenv-use.git
+[submodule "plugins/rbenv-binstubs"]
+	path = plugins/rbenv-binstubs
+	url = https://github.com/ianheggie/rbenv-binstubs.git
+[submodule "plugins/rbenv-man"]
+	path = plugins/rbenv-man
+	url = https://github.com/mlafeldt/rbenv-man.git
