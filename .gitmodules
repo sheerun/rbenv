@@ -25,3 +25,6 @@
 [submodule "plugins/rbenv-man"]
 	path = plugins/rbenv-man
 	url = https://github.com/mlafeldt/rbenv-man.git
+[submodule "plugins/ruby-download"]
+	path = plugins/ruby-download
+	url = https://github.com/sheerun/ruby-download.git
